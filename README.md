@@ -29,6 +29,7 @@ I am currently learning HTML, CSS, SCSS, and JavaScript to become a skilled web 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-
 <br/>  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nillalways)](https://github.com/anuraghazra/github-readme-stats)
+
