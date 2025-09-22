@@ -8,9 +8,20 @@
 I am currently learning HTML, CSS, SCSS, and JavaScript to become a skilled web developer. I have built 5 websites using CSS, SCSS, and JavaScript, focusing on clean code, responsive design, and excellent user experience. Client satisfaction and continuous learning are my top priorities.
 
 
-✅ WordPress
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ Photoshop / Illustrator
+## <div align="center">Larning Fontend-Developer.</div>  
+  
+
+- ✅ HTML 5  
+  
+
+- ✅  CSS  
+  
+
+- ✅  SASS  
+  
+
+- ✅  Javascript  
+  
+
+<br/>  
 
