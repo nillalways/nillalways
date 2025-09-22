@@ -3,7 +3,7 @@
 </div>  
 
 ### Hi there 👋, Shipon Roy
-#### I am a passionate and enthusiastic Junior Web Developer.
+#### .
 
-I am a passionate and enthusiastic Junior Web Developer with a strong interest in front-end development. I enjoy working with HTML, CSS, and JavaScript to create clean and responsive web designs. Currently, I am focused on improving my skills in UI/UX and building user-friendly interfaces. I love learning new technologies and constantly strive to grow as a developer.
+I am currently learning HTML, CSS, SCSS, and JavaScript to become a skilled web developer. I have built 5 websites using CSS, SCSS, and JavaScript, focusing on clean code, responsive design, and excellent user experience. Client satisfaction and continuous learning are my top priorities.
 
