@@ -1,5 +1,6 @@
-![I am a passionate and enthusiastic Junior Web Developer.]
-https://media.licdn.com/dms/image/v2/D4E16AQHpbKW03qRmGw/profile-displaybackgroundimage-shrink_350_1400/B4EZkuBDqWGcAc-/0/1757413655495?e=1760572800&v=beta&t=QZHwmAQgZaNQhOyi5CTzv2VtlJyJIwNEHIxGjb8exJU
+<div align="center">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHpbKW03qRmGw/profile-displaybackgroundimage-shrink_350_1400/B4EZkuBDqWGcAc-/0/1757413655495?e=1760572800&v=beta&t=QZHwmAQgZaNQhOyi5CTzv2VtlJyJIwNEHIxGjb8exJU" align="center" style="width: 100%" />
+</div>  
 
 ### Hi there 👋, Shipon Roy
 #### I am a passionate and enthusiastic Junior Web Developer.
