@@ -20,7 +20,7 @@ I am currently learning HTML, CSS, SCSS, and JavaScript to become a skilled web 
 - ✅  SASS  
   
 
-- ✅  Javascript  
+- ✅ Larning Javascript  
   
 
 <br/>  
