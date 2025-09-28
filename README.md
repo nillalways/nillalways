@@ -1,5 +1,5 @@
 <div align="center">
-(https://pbs.twimg.com/profile_banners/1971422334289625088/1759074186/1500x500)
+<img src="https://pbs.twimg.com/profile_banners/1971422334289625088/1759074186/1500x500" align="center" style="width: 100%" />
 </div>  
 
 ### Hi👋, Im Shipon Roy
