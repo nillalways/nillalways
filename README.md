@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHpbKW03qRmGw/profile-displaybackgroundimage-shrink_350_1400/B4EZkuBDqWGcAc-/0/1757413655495?e=1760572800&v=beta&t=QZHwmAQgZaNQhOyi5CTzv2VtlJyJIwNEHIxGjb8exJU" align="center" style="width: 100%" />
+(https://pbs.twimg.com/profile_banners/1971422334289625088/1759074186/1500x500)
 </div>  
 
 ### Hi👋, Im Shipon Roy
