@@ -2,7 +2,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1971422334289625088/1759074186/1500x500" align="center" style="width: 100%" />
 </div>  
 
-###🚀 About Me
+### 🚀 About Me
 <br/>  
 
 I am currently learning HTML, CSS, SCSS, and JavaScript | to become a skilled web developer. I have built 5 websites using CSS, SCSS, and JavaScript, focusing on clean code, responsive design, and excellent user experience. Client satisfaction and continuous learning are my top priorities.
