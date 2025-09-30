@@ -8,7 +8,7 @@
 I am currently learning HTML, CSS, SCSS, and JavaScript | to become a skilled web developer. I have built 5 websites using CSS, SCSS, and JavaScript, focusing on clean code, responsive design, and excellent user experience. Client satisfaction and continuous learning are my top priorities.
 
 
-## <div align="center"> I Am Larning Fontend-Development.</div>  
+## <div align="center"> I’m learning front-end development 😊</div>  
   
 
 - ✅ HTML 5  
