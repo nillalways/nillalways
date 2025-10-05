@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://pbs.twimg.com/profile_banners/1971422334289625088/1759074186/1500x500" align="center" style="width: 100%" />
-</div>  
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEdIMWjlfMCeQ/profile-displaybackgroundimage-shrink_350_1400/B4EZm0mhdVKYAY-/0/1759671623526?e=1762387200&v=beta&t=nIfEJto-TlrtM2HQurkFjIgheUX5KyBAP_CtXIqseUM" align="center" style="width: 100%" />
+</div> 
 
 ### 🚀 About Me
 <br/>  
