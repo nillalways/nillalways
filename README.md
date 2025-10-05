@@ -5,7 +5,21 @@
 ### 🚀 About Me
 <br/>  
 
-I am currently learning HTML, CSS, SCSS, and JavaScript | to become a skilled web developer. I have built 5 websites using CSS, SCSS, and JavaScript, focusing on clean code, responsive design, and excellent user experience. Client satisfaction and continuous learning are my top priorities.
+I am a passionate learner in Web Development, currently focusing on building projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m now exploring JavaScript to strengthen my frontend development journey.
+So far, I have completed 5 projects, including:
+
+✅ Gym Website
+
+✅ Portfolio Website
+
+✅ Restaurant Websites
+
+✅ Perfect Responsive Design project
+
+
+Through these projects, I have learned how to write clean, maintainable code and create responsive designs that work across all devices.
+💡 Coding is not just my skill—it’s my hobby. I enjoy experimenting with new ideas, solving problems, and continuously improving my craft. My next goal is to dive deeper into JavaScript and start working with real-world client projects.
+I’m always open to learning, collaborating, and connecting with professionals in the web development community. 🚀
 
 
 ## <div align="center"> 👨‍💻 Skills & Experiance 😊</div>  
