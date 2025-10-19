@@ -23,16 +23,13 @@ I’m always open to learning, collaborating, and connecting with professionals 
   
 
 - ✅ HTML 5  
-  
-
+<br/> 
 - ✅  CSS  
-  
-
+<br/> 
 - ✅  SASS  
-  
-
+<br/> 
 - ✅ Larning Javascript  
-  
+<br/> 
 - ✅  Photoshop & illustrator
 
   
