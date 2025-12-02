@@ -71,11 +71,5 @@ I’m always open to learning, collaborating, and connecting with professionals 
 
 <br/> 
 
-  
-<br/>  
 
-
-<br/>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nillworks)](https://github.com/anuraghazra/github-readme-stats)
 
