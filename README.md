@@ -7,11 +7,15 @@
 
 I am a passionate learner in Web Development, currently focusing on building projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m now exploring JavaScript to strengthen my frontend development journey.
 So far, I have completed 5 projects, including:
-
-✅ Gym Website
+<br/>
+✅ Gym Website 
+<br/>
 ✅ Portfolio Website
+<br/>
 ✅ Restaurant Websites
+<br/>
 ✅ Perfect Responsive Design project
+<br/>
 
 Through these projects, I have learned how to write clean, maintainable code and create responsive designs that work across all devices.<br/> 
 💡 Coding is not just my skill—it’s my hobby. I enjoy experimenting with new ideas, solving problems, and continuously improving my craft. My next goal is to dive deeper into JavaScript and start working with real-world client projects.
