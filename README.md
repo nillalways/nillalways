@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQEdIMWjlfMCeQ/profile-displaybackgroundimage-shrink_350_1400/B4EZm0mhdVKYAY-/0/1759671623526?e=1766016000&v=beta&t=rJmVp6csF5iAB79CcLb8pg24zjUR0u_t2zcRbg5PMNs" align="center" style="width: 100%" />
-</div>  
+</div> 
 
 ### 🚀 About Me
-<br/>  
 
 I am a passionate learner in Web Development, currently focusing on building projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m now exploring JavaScript to strengthen my frontend development journey.
 So far, I have completed 5 projects, including
