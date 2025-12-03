@@ -7,8 +7,8 @@
 
 I am a passionate learner in Web Development, currently focusing on building projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m now exploring JavaScript to strengthen my frontend development journey.
 So far, I have completed 5 projects, including
-
 <br/>
+
 ✅ Gym Website 
 <br/>
 ✅ Portfolio Website
