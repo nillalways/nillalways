@@ -23,11 +23,6 @@ Through these projects, I have learned how to write clean, maintainable code and
 I’m always open to learning, collaborating, and connecting with professionals in the web development community. 🚀
 
 
-  
-  
-## 👨‍💻 My Skill and languages tools
-
-
 <!-- ---------- 💻 Tech Stack Section (Beautiful + Centered) ---------- -->
 
 <h2 align="center"> 💻 Technologies I Work With </h2>
