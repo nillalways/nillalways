@@ -47,7 +47,14 @@ the web development community. 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </p>
 
-
 <!-- ---------- 💻 Tech Stack Section (Beautiful + Centered) ---------- -->
 
 <h2 align="center"> ☕ Connect with me! </h2>
+
+<p align="center">
+  <a href="#"><img src="images/facebook.png" alt="facebook"></a>
+  <a href="#"><img src="images/youtube.png" alt="Youtub"></a>
+  <a href="#"><img src="images/instagram.png" alt="instagram"></a>
+  <a href="#"><img src="images/twitter.png" alt="twitter"></a>
+  <a href="#"><img src="images/linkedin.png" alt="Linkedin"></a>
+</p>
