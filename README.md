@@ -1,27 +1,25 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEdIMWjlfMCeQ/profile-displaybackgroundimage-shrink_350_1400/B4EZm0mhdVKYAY-/0/1759671623526?e=1766016000&v=beta&t=rJmVp6csF5iAB79CcLb8pg24zjUR0u_t2zcRbg5PMNs" align="center" style="width: 100%" />
-</div> 
+<a href=""><img src="images/img Github" alt="banerImages"></a>
+</div>
 
 ### 🚀 About Me
 
-I am a passionate learner in Web Development, currently focusing on building projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m now exploring JavaScript to strengthen my frontend development journey.
-So far, I have completed 5 projects, including
-<br/>
+I am a passionate learner in Web Development, currently focusing on building
+projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m now
+exploring JavaScript to strengthen my frontend development journey. So far, I
+have completed 5 projects, including <br/>
 
-✅ Gym Website 
-<br/>
-✅ Portfolio Website
-<br/>
-✅ Restaurant Websites
-<br/>
-✅ Perfect Responsive Design project
-<br/>
+✅ Gym Website <br/> ✅ Portfolio Website <br/> ✅ Restaurant Websites <br/> ✅
+Perfect Responsive Design project <br/>
 
-Through these projects, I have learned how to write clean, maintainable code and create responsive designs that work across all devices.<br/> 
-💡 Coding is not just my skill—it’s my hobby. I enjoy experimenting with new ideas, solving problems, and continuously improving my craft. My next goal is to dive deeper into JavaScript and start working with real-world client projects.
+Through these projects, I have learned how to write clean, maintainable code and
+create responsive designs that work across all devices.<br/> 💡 Coding is not
+just my skill—it’s my hobby. I enjoy experimenting with new ideas, solving
+problems, and continuously improving my craft. My next goal is to dive deeper
+into JavaScript and start working with real-world client projects.
 
-I’m always open to learning, collaborating, and connecting with professionals in the web development community. 🚀
-
+I’m always open to learning, collaborating, and connecting with professionals in
+the web development community. 🚀
 
 <!-- ---------- 💻 Tech Stack Section (Beautiful + Centered) ---------- -->
 
@@ -48,8 +46,3 @@ I’m always open to learning, collaborating, and connecting with professionals 
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </p>
-
-
-
-
-
