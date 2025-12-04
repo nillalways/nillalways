@@ -59,7 +59,7 @@ the web development community. 🚀
   <a href="https://www.linkedin.com/in/nillworks/"><img src="images/linkedin.png" alt="Linkedin"></a>
 </p>
 
-<h2 align="center"> 📧 Email Address</h2>
+<h2 align="left"> 📧 Contacts Email Address</h2>
 
 <a href="mailto:shiponworks@gmail.com">
   <span>✅ ►</span> shiponworks@gmail.com
