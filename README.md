@@ -46,3 +46,8 @@ the web development community. 🚀
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </p>
+
+
+<!-- ---------- 💻 Tech Stack Section (Beautiful + Centered) ---------- -->
+
+<h2 align="center"> ☕ Connect with me! </h2>
