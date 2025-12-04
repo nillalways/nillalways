@@ -21,7 +21,7 @@ into JavaScript and start working with real-world client projects.
 I’m always open to learning, collaborating, and connecting with professionals in
 the web development community. 🚀
 
-<!-- ---------- 💻 Tech Stack Section (Beautiful + Centered) ---------- -->
+<!-- ---------- 💻 Tech Stack Section  ---------- -->
 
 <h2 align="center"> 💻 Technologies I Work With </h2>
 
@@ -47,7 +47,7 @@ the web development community. 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </p>
 
-<!-- ---------- 💻 Tech Stack Section (Beautiful + Centered) ---------- -->
+<!-- ---------- ☕ Connect with me! ---------- -->
 
 <h2 align="center"> ☕ Connect with me! </h2>
 
@@ -55,6 +55,12 @@ the web development community. 🚀
   <a href="#"><img src="images/facebook.png" alt="facebook"></a>
   <a href="#"><img src="images/youtube.png" alt="Youtub"></a>
   <a href="#"><img src="images/instagram.png" alt="instagram"></a>
-  <a href="#"><img src="images/twitter.png" alt="twitter"></a>
-  <a href="#"><img src="images/linkedin.png" alt="Linkedin"></a>
+  <a href="https://twitter.com/shiponworks"><img src="images/twitter.png" alt="twitter"></a>
+  <a href="https://www.linkedin.com/in/nillworks/"><img src="images/linkedin.png" alt="Linkedin"></a>
 </p>
+
+<h2 align="center"> 📧 Email Address</h2>
+
+<a href="mailto:shiponworks@gmail.com">
+  <span>✅ ►</span> shiponworks@gmail.com
+</a>
