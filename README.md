@@ -61,6 +61,4 @@ the web development community. 🚀
 
 <h2 align="left"> 📧 Contacts Email Address</h2>
 
-<a href="mailto:shiponworks@gmail.com">
-  <span>✅ ►</span> shiponworks@gmail.com
-</a>
+  <p>✅<span>►</span><a href="mailto:shiponworks@gmail.com"> shiponworks@gmail.com</a></p>
