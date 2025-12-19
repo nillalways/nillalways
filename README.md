@@ -49,21 +49,24 @@ the web development community. 🚀
 
 <!-- ---------- ☕ Connect with me! ---------- -->
 
-<h2 align="center"> ☕ Connect with me! </h2>
+<h2 align="left"> ☕ Connect with me! </h2>
 
-<p align="center">
+<p align="left">
   <a href="#"><img src="images/facebook.png" alt="facebook"></a>
   <a href="#"><img src="images/youtube.png" alt="Youtub"></a>
   <a href="#"><img src="images/instagram.png" alt="instagram"></a>
   <a href="https://twitter.com/shiponworks"><img src="images/twitter.png" alt="twitter"></a>
   <a href="https://www.linkedin.com/in/nillworks/"><img src="images/linkedin.png" alt="Linkedin"></a>
-</p>
 
-<h2 align="left"> 📧 Contacts Email Address</h2>
 
+<span align="left"> 📧Email Address</span>
   <p>✅<span>►</span><a href="mailto:shiponworks@gmail.com"> shiponworks@gmail.com</a></p>
-
-
+  
+  💬 <a href="https://wa.me/8801612375602">WhatsApp</a> <br/>
+ 📞 <a href="tel:+8801612375602">+8801612375602</a> 
+  
+</p>
+<h2 align="left"> </h2>
 <br/>
 
 
