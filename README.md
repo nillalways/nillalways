@@ -1,5 +1,5 @@
 <div align="center">
-<a href=""><img src="images/img Github.jpg" alt="banerImages"></a>
+<a href=""><img src="images/" alt="banerImages"></a>
 </div>
 
 ### 🚀 About Me
