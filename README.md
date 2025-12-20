@@ -9,7 +9,7 @@ projects to improve my skills. I have completed HTML, CSS, and SCSS, and I’m n
 exploring JavaScript to strengthen my frontend development journey. So far, I
 have completed 5 projects, including <br/>
 
-✅ Gym Website <br/> ✅ Portfolio Website <br/> ✅ Restaurant Websites <br/> ✅
+✅ ECOMMERCE-WEBSITE <br/> ✅ LANKASTAY-WEBSITE <br/> ✅ Restaurant Websites <br/> ✅
 Perfect Responsive Design project <br/>
 
 Through these projects, I have learned how to write clean, maintainable code and
